@@ -30,7 +30,7 @@ How It Works
    Convert CSV datasets into SQL tables using SQLite.
 
 2. LLM Integration  
-   A local or free LLM (e.g., Gemini 2.5 API) is used to understand user questions and generate SQL queries.
+   A local or free LLM is used to understand user questions and generate SQL queries.
 
 3. Query Execution  
    The generated SQL query is run on the database to retrieve accurate results.
